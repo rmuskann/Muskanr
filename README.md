@@ -1,4 +1,4 @@
-# 🌸 Hey, I’m Muskan — welcome to my cozy GitHub corner!
+# 🌸 Hey, I’m Muskan — welcome to my GitHub corner!
 
 I'm a curious mind with a love for data, dashboards, and all things that make work-life smoother (and prettier 👩‍💻💫).  
 Right now, I’m building projects, learning, unlearning, and shaping a career I’m proud of — one SQL query and Power BI report at a time.
