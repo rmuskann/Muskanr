@@ -21,7 +21,7 @@ Here you’ll find:
 ### 🌐 Let’s connect
 
 [![Instagram](https://img.shields.io/badge/@themuuskan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/themuuskan)  
-[![LinkedIn](https://img.shields.io/badge/da-muskan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/da-muskan)
+[![LinkedIn](https://img.shields.io/badge/Muskan_Rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/da-muskan)
 
 ---
 
